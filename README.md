@@ -14,7 +14,9 @@ My SQL solutions to LeetCode problems
 |-----|--------------------------------------------|------------|----------|
 | 176 | Second Highest Salary                      | Medium     | [SQL](./Medium/176-Second-Highest-Salary.sql) |
 | 177 | Nth Highest Salary                         | Medium     | [SQL](./Medium/177-Nth-Highest-Salary.sql) |
-| 178 | Rank Scores                                | Medium     | [SQL](./Medium/184-Rank-Scores.sql) |
+| 178 | Rank Scores                                | Medium     | [SQL](./Medium/178-Rank-Scores.sql) |
+| 180 | Consecutive Numbers                        | Medium     | [SQL](./Medium/180-Consecutive-Numbers.sql) |
+| 184 | Department Highest Salary                  | Medium     | [SQL](./Medium/184-Department-Highest-Salary.sql) |
 
 > ✅ This table will grow as I continue solving problems!
 
